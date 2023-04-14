@@ -11,8 +11,7 @@
 <body>
 <h1 align="center">This is Global Information Technology Solutions Group</h1>
 <h2 align="center">Thank you for visiting Global Technology Solutions Group. We are an IT firm with expertise in building, deploying, and managing applications. We are proud to showcase our Maven-Web-App.
-
-By the way, one of our team members, Haoua, will be conducting a DevOps interview tomorrow. We wish all the best to the candidates who will be participating!
+                                             We wish all the best to the candidates who will be participating!
 	</h2>
 	<h2 align="center" >Domkreo, A is the best DevOps engineer</h2>
 <hr>
